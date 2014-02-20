@@ -1,0 +1,18 @@
+{
+  "name": "cayasso-pull-to-refresh",
+  "description": "A pull to refresh component for iOS 5+",
+  "version": "0.0.1",
+  "keywords": [
+    "scroll",
+    "pull to refresh",
+    "scrolling"
+  ],
+  "styles": [
+    "pull-to-refresh.css"
+  ],
+  "dependencies": {
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}

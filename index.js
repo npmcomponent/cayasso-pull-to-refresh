@@ -3,8 +3,8 @@
  * Module dependencies
  */
 
-var events = require('events');
-var Emitter = require('emitter');
+var events = require('component-events');
+var Emitter = require('component-emitter');
 var html = require('./template');
 
 var classes = {
